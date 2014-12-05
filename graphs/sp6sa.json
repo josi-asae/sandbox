@@ -4,7 +4,7 @@
         "id": "sp6sa",
         "project": "test3",
         "environment": {
-            "type": "goflow",
+            "type": "thingy",
             "content": "<div class='area' title='.area'>\n<img id='minutes' src='http://i.meemoo.me/v1/in/23DZFKYoRTOIAjPA7sed_clock-minutes.png' style='position:absolute; top:0; left:140px; height:300px;' />\n<img id='minutes2' src='http://i.meemoo.me/v1/in/23DZFKYoRTOIAjPA7sed_clock-minutes.png' style='position:absolute; top:0; left:140px; height:200px;' />\n<img id='minutes3' src='http://i.meemoo.me/v1/in/23DZFKYoRTOIAjPA7sed_clock-minutes.png' style='position:absolute; top:0; left:140px; height:100px;' />\n</div>"
         }
     },
